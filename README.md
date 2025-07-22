@@ -22,7 +22,8 @@ Published researcher in **Springer Nature** & **IEEE** with focus on real-time m
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" />
+  <img src="<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/af3cb67a-2020-4749-9374-a81966467571" />
+" width="100%" />
   
   ### Currently exploring Graph Databases, LLMs, and high-performance system design
 </div>
