@@ -1,7 +1,7 @@
 # Hi, I'm Anurag Raut 👋  
 ## **AI Engineer | Data Engineer | Machine Learning Enthusiast**
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800"/>
 
 🎓 Final-year **B.Tech student at VIT Pune**, passionate about building intelligent, scalable, and real-world AI systems.
 
