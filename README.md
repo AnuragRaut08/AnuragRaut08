@@ -10,7 +10,7 @@
 
 ---
 
-##🎓 Final-year **B.Tech student at VIT Pune**, passionate about building intelligent, scalable, and real-world AI systems.
+## 🎓 Final-year **B.Tech student at VIT Pune**, passionate about building intelligent, scalable, and real-world AI systems.
 
 ## 🚀 Areas of Focus
 
