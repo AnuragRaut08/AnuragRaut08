@@ -1,59 +1,67 @@
-# Anurag Raut
+<!-- Profile Header Banner -->
+<img src="https://raw.githubusercontent.com/AnuragRaut08/AnuragRaut08/main/assets/tech-banner.png" width="100%" alt="Tech Stack Banner" />
 
-<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" align="right" width="160"/>
+# 👋 Hi, I'm Anurag Raut
 
-**AI Engineer | Data Systems Developer**  
-Final-year student at **VIT Pune**  
-Published in **Springer Nature** & **IEEE** | Focused on real-time NLP, LLMs, and legal tech.
+<p align="right">
+  <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" width="120"/>
+</p>
 
-Currently building intelligent pipelines, optimizing data architectures, and working at the intersection of AI & systems.
+**AI Engineer & Scalable Systems Developer**  
+🎓 Final-year CS student at **VIT Pune**  
+🧠 Passionate about **multilingual NLP**, **graph-aware ML**, and **data-intensive systems**  
 
-<br clear="right"/>
+Published researcher in **Springer Nature** & **IEEE**, focused on real-time intelligent applications in legal tech, healthcare, and smart data engineering.
 
 ---
 
-## 🚀 Tech Stack
+## 💻 What I’m Working On
 
-<div align="center">
+- 🔸 **LLMs + Knowledge Graphs** for domain-specific question answering  
+- 🔸 Scalable backend services with **FastAPI**, **PostgreSQL**, and **Redis**  
+- 🔸 End-to-end **ML pipelines** and automated **ETL workflows**  
+- 🔸 Building NLP-based products like **LegalEagle** and **Syptomed**
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,flutter,docker,tensorflow,pytorch,postgres,redis,fastapi,aws,git,linux&theme=dark" />
-</div>
+</p>
 
 ---
 
-## 💼 Notable Projects
+## 🧠 Interests
 
-| Project | Description |
-|--------|-------------|
-| 🔹 **LegalEagle** | Govt-sponsored legal aid system using **NLP**, **judgment prediction**, and **layman summarization**. |
-| 🔹 **LinguaFLUX** | Real-time multilingual video/audio summarizer using **ASR**, **Transformers**, and **Graph DBs**. |
-| 🔹 **CredSync** | Customer clustering system for **credit card** transaction insights using **KMeans**, **DBSCAN**, and **Dashboards**. |
-| 🔹 **Syptomed** | NER-based medical assistant that extracts text from prescriptions to suggest alternatives and health plans. |
-| 🔹 **JobScraper** | Data Engineering pipeline that filters jobs based on **visa eligibility** using **ClickHouse**, **Airflow**, and **FastAPI**. |
+- LLMs, NLP, NER, Summarization  
+- Graph Databases & Reasoning  
+- Legal and Healthcare AI  
+- Data Pipelines, Streamlit, Dash  
+- Research-focused development
 
 ---
 
-## 🧠 Areas of Interest
+## 📸 A Little Vibe
 
-- NLP, NER & Text Summarization  
-- Graph Databases (e.g., OrientDB)  
-- AI for Social Impact (Legal & Healthcare AI)  
-- Scalable Backend Design (FastAPI, PostgreSQL)  
-- LLM-based QA & Content Generation  
-- Data Engineering & ETL Automation  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnuragRaut08/AnuragRaut08/main/assets/dev-illustration.png" width="600"/>
+</p>
 
 ---
 
-## 🌐 Connect with Me
+## 📬 Let's Connect
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anurag-raut-338b8b2b8)
-[![Gmail](https://img.shields.io/badge/Gmail-anuragrautxyz@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:anuragrautxyz@gmail.com)
-
-</div>
+<p align="center">
+  <a href="mailto:anuragrautxyz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-anuragrautxyz%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/anurag-raut-338b8b2b8">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Turning+AI+into+real-world+impact;Designing+with+intelligence+%7C+Deploying+with+care" />
-</div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Turning+AI+into+real-world+impact;De
