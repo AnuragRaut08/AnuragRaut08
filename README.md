@@ -1,72 +1,67 @@
-<!-- README.md for AnuragRaut08 GitHub Portfolio -->
+# Anurag Raut
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Anurag+Raut;AI+•+Data+Engineer+•+Software+Dev;Building+ETL+pipelines+&+ML+systems" alt="typing svg" />
-</p>
+<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" align="right" width="180"/>
 
----
+**AI Engineer & Data Systems Developer**  
+Final-year Computer Science student at **VIT Pune**
 
-## 👋 About Me
+Published researcher in **Springer Nature** & **IEEE** with focus on real-time multilingual NLP, legal technology, and intelligent systems. Experienced in building end-to-end ML pipelines, scalable backend architectures, and data-driven solutions.
 
-I’m **Anurag Raut**, final-year B.Tech student at **VIT Pune**, specializing in **AI, Data Engineering**, and **Software Development**. I'm passionate about optimizing data pipelines, building robust backend systems, and crafting intelligent ML-powered tools for real-world use.  
+Currently exploring **Graph Databases**, **Large Language Models**, and **high-performance system design**.
 
-- 🔭 Currently building **CredSync**, **LegalEagle**, **Syptomed**, and a **SmartBookQnA** system  
-- 📚 Published in **Springer Nature** and **IEEE** on projects spanning **multilingual NLP**, **legal-tech**, and **ETL architecture**  
-- 💼 Internship experience building scalable **ETL pipelines** and prototype ML systems
+<br clear="right"/>
 
----
+## Current Projects
 
-## 🛠️ Technical Skills
+**⚡ CredSync** – Clustering-based cashback optimization system for credit card users  
+**⚖️ LegalEagle** – AI-powered legal document analysis with NER and case summarization  
+**🧾 Syptomed** – Medical prescription digitization pipeline with healthcare recommendations  
+**📚 SmartBookQnA** – Intelligent question-answering system for book content  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,flutter,react,postgres,mysql,fastapi,docker,aws,linux,git,github,tensorflow,pytorch,huggingface" />
-</p>
+## Research & Publications
 
----
+- **Springer Nature** – Real-time multilingual NLP systems
+- **IEEE (Scopus Indexed)** – Legal technology and document processing
+- **YouTube Content Summarization** – Automated video content analysis
 
-## 🚀 Featured Projects
+## Technical Expertise
 
-| Project | Description | Tech Stack |
-|--------|-------------|-------------|
-| **[CredSync](https://github.com/AnuragRaut08/credsync)** | Clustering-based cashback optimizer for credit card spend | Python, Scikit-learn, Pandas |
-| **[LegalEagle](https://github.com/AnuragRaut08/legaleagle)** | NLP-based legal document summarization & verdict prediction | Python, BERT, SpaCy |
-| **[Syptomed](https://github.com/AnuragRaut08/syptomed)** | Prescription → NER → diagnostic advice pipeline | Python, Transformers, Streamlit |
-| **SmartBookQnA** *(private/prototype)* | AI-powered QnA system over long-form text | Python, LangChain, Streamlit |
+**Machine Learning & AI**  
+Python • TensorFlow • PyTorch • HuggingFace Transformers • Scikit-learn • LangChain
 
----
+**Data Engineering & Databases**  
+PostgreSQL • Redis • OrientDB • Neo4j • ETL Pipelines • Data Architecture
 
-## 🔗 Connect with Me
+**Backend Development**  
+FastAPI • Flask • RESTful APIs • System Design • Microservices
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anurag-raut-338b8b2b8" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:anuragrautxyz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/AnuragRaut08" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
+**Frontend & Visualization**  
+React • Streamlit • HTML/CSS • Data Visualization • Seaborn
 
----
+**DevOps & Cloud**  
+Docker • AWS • Linux • Git • CI/CD • Scalable Architectures
 
-## 🧩 Currently Exploring
+## Featured Repositories
 
-- **Graph Databases** (Neo4j, OrientDB) integrated with ML pipelines  
-- **LLMs**, Knowledge Graphs, and Prompt Engineering  
-- **Scalable ETL/DataOps**, Streamlit + FastAPI microservices
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [**CredSync**](https://github.com/AnuragRaut08/credsync) | Intelligent cashback optimizer using clustering algorithms | Python, Scikit-learn, Seaborn |
+| [**LegalEagle**](https://github.com/AnuragRaut08/legaleagle) | Legal document summarization with AI-powered insights | BERT, React, Flask, NLP |
+| [**Syptomed**](https://github.com/AnuragRaut08/syptomed) | End-to-end medical prescription processing system | Streamlit, HuggingFace, OCR |
 
----
+## Areas of Interest
 
-## 🎯 Why You Should Collaborate with Me
+- **Graph Databases** (OrientDB, Neo4j) for knowledge representation
+- **Natural Language Processing** with transformer architectures
+- **Automated Speech Recognition** and multilingual systems
+- **DataOps** and scalable ETL pipeline design
+- **Legal Technology** and document intelligence
 
-- Strong foundation across **ML, NLP, data pipelines**, and **backend systems**
-- Experience in deploying **production-ready prototypes**
-- Excellent research-background (Scopus-indexed publications)
-- Passionate about **open-source**, **community learning**, and **real-world impact**
+## Connect
+
+**Email:** [anuragrautxyz@gmail.com](mailto:anuragrautxyz@gmail.com)  
+**LinkedIn:** [linkedin.com/in/anurag-raut-338b8b2b8](https://www.linkedin.com/in/anurag-raut-338b8b2b8)
 
 ---
 
-_“Let’s collaborate—build smarter systems that matter.”_
-
+*Building intelligent systems that solve real-world problems through the intersection of AI, data engineering, and thoughtful system design.*
