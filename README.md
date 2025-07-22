@@ -39,37 +39,47 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,flutter,tensorflow,pytorch,docker,aws,postgres,redis,fastapi,git,linux&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,go,java,cpp,js,react,flutter,tensorflow,pytorch,docker,aws,postgres,numpy,pandas,fastapi,git,linux&theme=light" />
 </div>
 
 ---
 
 ## 🧩 Domains I Love
 
-- 🔍 Information Retrieval & NLP  
-- ⚖️ Legal Tech & Accessible AI  
-- 📊 Data Engineering & Systems Design  
-- 📚 Multilingual AI & Generative Applications  
-- 🧩 Graph Databases (Neo4j, OrientDB)
+- 🔍 **Information Retrieval & NLP**  
+  Semantic search, transformers, embeddings, and text summarization for real-world use cases
 
----
+- ⚖️ **Legal Tech & Accessible AI**  
+  Democratizing justice with LLMs, NER pipelines, and multilingual legal document processing
 
-## 📌 Recent Work Highlights
+- 📊 **Data Engineering & Systems Design**  
+  Scalable ETL pipelines, real-time data streaming, and analytics-driven system architecture
 
-- 🔹 **Legal Eagle**: Legal aid platform using NER, judgment summarization, and layman explanation (under ICCAIS 2025 submission)  
-- 🔹 **LinguaFLUX**: Real-time multilingual YouTube transcript summarizer (IEEE 2024)  
-- 🔹 **CredSync**: Customer segmentation & cashback optimization using clustering  
-- 🔹 **Syptomed**: ML-powered prescription reader and health advice generator  
-- 🔹 **JobScraper**: Automated data pipeline for visa-sponsoring job listings
+- 📚 **Multilingual AI & Generative Applications**  
+  Speech-to-text, translation, cross-lingual summarization, and zero-shot learning using LLMs
 
----
+- 🧠 **LLM Fine-tuning & Retrieval-Augmented Generation (RAG)**  
+  Building smart Q/A systems and task-specific copilots using LangChain, FAISS, and custom prompts
+
+- 🧩 **Graph Databases & Knowledge Graphs**  
+  Neo4j, OrientDB, entity linking, and relationship extraction for graph-based reasoning
+
+- 🎙️ **Speech & Audio Intelligence**  
+  ASR, voice-based interfaces, audio pre-processing, and multilingual speech conversion
+
+- 🧪 **Model Deployment & MLOps**  
+  CI/CD for ML, Docker-based deployments, model monitoring, and FastAPI microservices
+
+- 🔐 **Ethical AI & Responsible Tech**  
+  Focused on fairness, accessibility, explainability, and real-world impact of AI systems
+
 
 ## 📫 Reach Out
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anurag%20Raut-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anurag-raut-338b8b2b8)  
-[![Email](https://img.shields.io/badge/Gmail-anuragrautxyz@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:anuragrautxyz@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-anuragtraut2003@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:anuragtraut2003@gmail.com)
 
 </div>
 
