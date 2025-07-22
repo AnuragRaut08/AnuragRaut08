@@ -1,17 +1,21 @@
 # Hi, I'm Anurag Raut 👋  
 ## **AI Engineer | Data Engineer | Machine Learning Enthusiast**
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="950"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
+       width="95%" 
+       style="border: 2px solid #ccc; border-radius: 10px;" 
+       alt="Anurag Raut Banner"/>
+</div>
 
 ---
+
 🎓 Final-year **B.Tech student at VIT Pune**, passionate about building intelligent, scalable, and real-world AI systems.
 
 ## 🚀 Areas of Focus
 
 - **Applied Machine Learning** | **Deep Learning** | **Generative AI (LLMs)** | **Data Engineering**
 - Hands-on with building **end-to-end ML pipelines**, **LLM-based systems**, and **production-ready backend services**
-
-
 
 ## 🛠️ What I Do
 
@@ -20,21 +24,17 @@
 - 📊 **Data Engineering** – Real-time ETL pipelines using **Airflow**, **Pandas**, **SQL**, and **ClickHouse**  
 - 🎙️ **Speech & LLMs** – Leveraging **ASR** and **transformers** for real-time **speech-to-text**, **translation**, and **legal document automation**
 
-
-
 ## 📚 Research & Publications
 
 - 📝 Published in **Springer Nature** and **IEEE**  
 - 🔍 Topics: **Multilingual NLP**, **YouTube Video Summarization**, **Legal Tech Automation using AI**
 
-
-
 ## 💡 Core Belief
 
 >  **"I’m passionate about crafting AI-driven systems that create tangible impact — from streamlining workflows to enabling smarter, data-driven decisions."**
 
-
 ---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -55,7 +55,7 @@
   <summary>📊 Data Engineering</summary>
   
   - **Pipelines:** Apache Airflow, Pandas, SQL, Kafka (intro), ETL/ELT Architecture  
-  - **Databases:** PostgreSQL,AmazonS3,Redshift,BigQuery,Duckdb, MongoDB, MySQL, ClickHouse, Neo4j, OrientDB  
+  - **Databases:** PostgreSQL, AmazonS3, Redshift, BigQuery, DuckDB, MongoDB, MySQL, ClickHouse, Neo4j, OrientDB  
 </details>
 
 <details>
@@ -79,6 +79,7 @@
   - **Others:** Postman, Jupyter Notebooks, Google Colab, Notion, Linux Shell  
 </details>
 
+---
 
 ## 🧩 Domains I Love
 
@@ -109,6 +110,7 @@
 - 🔐 **Ethical AI & Responsible Tech**  
   Focused on fairness, accessibility, explainability, and real-world impact of AI systems
 
+---
 
 ## 📫 Reach Out
 
@@ -120,8 +122,6 @@
 </div>
 
 ---
-
-
 
 <div align="center">
   <sub><i>“Making AI usable, scalable, and truly impactful.”</i></sub>
