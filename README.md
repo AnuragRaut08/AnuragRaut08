@@ -32,13 +32,13 @@
 
 ## 💡 Core Belief
 
-> I thrive on building **AI-powered systems** that **impact real people** — from **democratizing legal aid** to **optimizing data-driven decision-making**.
+> I thrive on transforming **raw data** into **intelligent applications** that solve practical problems and make technology more accessible.
 
 ---
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,java,cpp,js,ts,react,nextjs,flutter,nodejs,html,css,tailwind,figma,tensorflow,pytorch,sklearn,opencv,docker,kubernetes,aws,gcp,postgres,mongodb,mysql,neo4j,fastapi,flask,redis,git,github,linux,vscode,numpy,pandas,matplotlib,seaborn,airflow,selenium&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,go,java,cpp,js,ts,react,nextjs,flutter,nodejs,html,css,tailwind,figma,tensorflow,pytorch,sklearn,opencv,docker,kubernetes,aws,gcp,postgres,mongodb,mysql,fastapi,flask,redis,git,github,linux,vscode,selenium&theme=light" />
 </div>
 
 ---
@@ -55,7 +55,7 @@
   <summary>📊 Data Engineering</summary>
   
   - **Pipelines:** Apache Airflow, Pandas, SQL, Kafka (intro), ETL/ELT Architecture  
-  - **Databases:** PostgreSQL, MongoDB, MySQL, ClickHouse, Neo4j, OrientDB  
+  - **Databases:** PostgreSQL,AmazonS3,Redshift,BigQuery,Duckdb, MongoDB, MySQL, ClickHouse, Neo4j, OrientDB  
 </details>
 
 <details>
