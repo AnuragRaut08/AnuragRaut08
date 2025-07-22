@@ -85,6 +85,51 @@
 
 ---
 
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,go,java,cpp,js,ts,react,nextjs,flutter,nodejs,html,css,tailwind,figma,tensorflow,pytorch,sklearn,opencv,docker,kubernetes,aws,gcp,postgres,mongodb,mysql,neo4j,fastapi,flask,redis,git,github,linux,vscode,numpy,pandas,matplotlib,seaborn,airflow,selenium&theme=light" />
+</div>
+
+---
+
+<details>
+  <summary>🧠 AI & Machine Learning</summary>
+  
+  - **Frameworks:** PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers  
+  - **Techniques:** LLMs, NER, RAG, CNNs, RNNs, ASR, Cross-lingual Summarization  
+  - **Toolkits:** spaCy, OpenCV, NLTK, Librosa  
+</details>
+
+<details>
+  <summary>📊 Data Engineering</summary>
+  
+  - **Pipelines:** Apache Airflow, Pandas, SQL, Kafka (intro), ETL/ELT Architecture  
+  - **Databases:** PostgreSQL, MongoDB, MySQL, ClickHouse, Neo4j, OrientDB  
+</details>
+
+<details>
+  <summary>🛠️ Backend & DevOps</summary>
+  
+  - **Frameworks:** FastAPI, Flask, Node.js  
+  - **Deployment:** Docker, GitHub Actions, AWS (EC2, S3), GCP, Nginx, Kubernetes (intro)  
+</details>
+
+<details>
+  <summary>🌐 Frontend Development</summary>
+  
+  - **Tech:** React.js, Next.js, Flutter, HTML/CSS, TailwindCSS  
+  - **UI/UX Tools:** Figma, Canva  
+</details>
+
+<details>
+  <summary>🧰 Developer Tools</summary>
+  
+  - **Version Control & IDEs:** Git, GitHub, GitLab, VS Code  
+  - **Others:** Postman, Jupyter Notebooks, Google Colab, Notion, Linux Shell  
+</details>
+
+
 <div align="center">
   <sub><i>“Making AI usable, scalable, and truly impactful.”</i></sub>
 </div>
