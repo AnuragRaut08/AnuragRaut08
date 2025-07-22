@@ -5,63 +5,41 @@
 **AI Engineer & Data Systems Developer**  
 Final-year Computer Science student at **VIT Pune**
 
-Published researcher in **Springer Nature** & **IEEE** with focus on real-time multilingual NLP, legal technology, and intelligent systems. Experienced in building end-to-end ML pipelines, scalable backend architectures, and data-driven solutions.
-
-Currently exploring **Graph Databases**, **Large Language Models**, and **high-performance system design**.
+Published researcher in **Springer Nature** & **IEEE** with focus on real-time multilingual NLP, legal technology, and intelligent systems. Building end-to-end ML pipelines, scalable backend architectures, and data-driven solutions.
 
 <br clear="right"/>
 
-## Current Projects
+---
 
-**⚡ CredSync** – Clustering-based cashback optimization system for credit card users  
-**⚖️ LegalEagle** – AI-powered legal document analysis with NER and case summarization  
-**🧾 Syptomed** – Medical prescription digitization pipeline with healthcare recommendations  
-**📚 SmartBookQnA** – Intelligent question-answering system for book content  
+## 🛠️ Tech Stack
 
-## Research & Publications
-
-- **Springer Nature** – Real-time multilingual NLP systems
-- **IEEE (Scopus Indexed)** – Legal technology and document processing
-- **YouTube Content Summarization** – Automated video content analysis
-
-## Technical Expertise
-
-**Machine Learning & AI**  
-Python • TensorFlow • PyTorch • HuggingFace Transformers • Scikit-learn • LangChain
-
-**Data Engineering & Databases**  
-PostgreSQL • Redis • OrientDB • Neo4j • ETL Pipelines • Data Architecture
-
-**Backend Development**  
-FastAPI • Flask • RESTful APIs • System Design • Microservices
-
-**Frontend & Visualization**  
-React • Streamlit • HTML/CSS • Data Visualization • Seaborn
-
-**DevOps & Cloud**  
-Docker • AWS • Linux • Git • CI/CD • Scalable Architectures
-
-## Featured Repositories
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| [**CredSync**](https://github.com/AnuragRaut08/credsync) | Intelligent cashback optimizer using clustering algorithms | Python, Scikit-learn, Seaborn |
-| [**LegalEagle**](https://github.com/AnuragRaut08/legaleagle) | Legal document summarization with AI-powered insights | BERT, React, Flask, NLP |
-| [**Syptomed**](https://github.com/AnuragRaut08/syptomed) | End-to-end medical prescription processing system | Streamlit, HuggingFace, OCR |
-
-## Areas of Interest
-
-- **Graph Databases** (OrientDB, Neo4j) for knowledge representation
-- **Natural Language Processing** with transformer architectures
-- **Automated Speech Recognition** and multilingual systems
-- **DataOps** and scalable ETL pipeline design
-- **Legal Technology** and document intelligence
-
-## Connect
-
-**Email:** [anuragrautxyz@gmail.com](mailto:anuragtraut2003@gmail.com)  
-**LinkedIn:** [linkedin.com/in/anurag-raut-338b8b2b8](https://www.linkedin.com/in/anurag-raut-338b8b2b8)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,flutter,tensorflow,pytorch,docker,aws,postgres,redis,fastapi,git,linux&theme=dark" />
+</div>
 
 ---
 
-*Building intelligent systems that solve real-world problems through the intersection of AI, data engineering, and thoughtful system design.*
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" />
+  
+  ### Currently exploring Graph Databases, LLMs, and high-performance system design
+</div>
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-anuragrautxyz%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:anuragrautxyz@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anurag-raut-338b8b2b8)
+
+</div>
+
+---
+
+<div align="center">
+  <i>Building intelligent systems that solve real-world problems</i>
+</div>
