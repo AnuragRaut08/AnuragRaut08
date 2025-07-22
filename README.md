@@ -59,7 +59,7 @@ Docker • AWS • Linux • Git • CI/CD • Scalable Architectures
 
 ## Connect
 
-**Email:** [anuragrautxyz@gmail.com](mailto:anuragrautxyz@gmail.com)  
+**Email:** [anuragrautxyz@gmail.com](mailto:anuragtraut2003@gmail.com)  
 **LinkedIn:** [linkedin.com/in/anurag-raut-338b8b2b8](https://www.linkedin.com/in/anurag-raut-338b8b2b8)
 
 ---
