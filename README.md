@@ -1,10 +1,11 @@
 # Hi, I'm Anurag Raut 👋  
-**AI Engineer | Data Systems Developer | Published Researcher**
+**AI Engineer | Data Engineer | Machine Learning Enthusiast**
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250"/>
 
-Final-year B.Tech student at **VIT Pune** with a strong focus on  
-**AI/ML, scalable backend systems, legal tech, and real-world data engineering**.  
+Final-year B.Tech student at **VIT Pune** passionate about building intelligent, scalable, and production-ready systems.
+
+Focused on **Applied Machine Learning**, **Generative AI**, **LLMs**, and **Deep Learning** with hands-on experience in **data pipelines**, **ML model deployment**, and **backend system design**. Published in **Springer Nature** and **IEEE**, with work spanning multilingual NLP, legal tech, and video summarization.
 
 - ⚙️ Published in **Springer Nature** & **IEEE** on multilingual NLP & summarization  
 - 🧠 Built systems using LLMs, NER, knowledge graphs, and real-time speech tech  
