@@ -5,8 +5,6 @@
 
 🎓 Final-year **B.Tech student at VIT Pune**, passionate about building intelligent, scalable, and real-world AI systems.
 
----
-
 ## 🚀 Areas of Focus
 
 - **Applied Machine Learning** | **Deep Learning** | **Generative AI (LLMs)** | **Data Engineering**
@@ -32,7 +30,8 @@
 
 ## 💡 Core Belief
 
-> I thrive on transforming **raw data** into **intelligent applications** that solve practical problems and make technology more accessible.
+>  **"I’m passionate about crafting AI-driven systems that create tangible impact — from streamlining workflows to enabling smarter, data-driven decisions."**
+
 
 ---
 ## 🛠️ Tech Stack
