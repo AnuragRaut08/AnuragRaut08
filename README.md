@@ -3,14 +3,36 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250"/>
 
-Final-year B.Tech student at **VIT Pune** passionate about building intelligent, scalable, and production-ready systems.
+🎓 Final-year **B.Tech student at VIT Pune**, passionate about building intelligent, scalable, and real-world AI systems.
 
-Focused on **Applied Machine Learning**, **Generative AI**, **LLMs**, and **Deep Learning** with hands-on experience in **data pipelines**, **ML model deployment**, and **backend system design**. Published in **Springer Nature** and **IEEE**, with work spanning multilingual NLP, legal tech, and video summarization.
+---
 
-- ⚙️ Published in **Springer Nature** & **IEEE** on multilingual NLP & summarization  
-- 🧠 Built systems using LLMs, NER, knowledge graphs, and real-time speech tech  
-- 🚀 Deploying smart data apps & pipelines using Python, Docker, FastAPI, and more  
-- 💡 Passionate about building solutions that **impact real people**
+## 🚀 Areas of Focus
+
+- **Applied Machine Learning** | **Deep Learning** | **Generative AI (LLMs)** | **Data Engineering**
+- Hands-on with building **end-to-end ML pipelines**, **LLM-based systems**, and **production-ready backend services**
+
+---
+
+## 🛠️ What I Do
+
+- 🧠 **ML/NLP Systems** – Multilingual understanding, Named Entity Recognition (NER), Summarization, Knowledge Graph Generation  
+- 🛠️ **Backend Development** – Production-grade systems using **FastAPI**, **Flask**, **Docker**, and **PostgreSQL**  
+- 📊 **Data Engineering** – Real-time ETL pipelines using **Airflow**, **Pandas**, **SQL**, and **ClickHouse**  
+- 🎙️ **Speech & LLMs** – Leveraging **ASR** and **transformers** for real-time **speech-to-text**, **translation**, and **legal document automation**
+
+---
+
+## 📚 Research & Publications
+
+- 📝 Published in **Springer Nature** and **IEEE**  
+- 🔍 Topics: **Multilingual NLP**, **YouTube Video Summarization**, **Legal Tech Automation using AI**
+
+---
+
+## 💡 Core Belief
+
+> I thrive on building **AI-powered systems** that **impact real people** — from **democratizing legal aid** to **optimizing data-driven decision-making**.
 
 ---
 
