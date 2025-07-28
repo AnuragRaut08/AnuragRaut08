@@ -62,7 +62,7 @@
   <summary>🛠️ Backend & DevOps</summary>
   
   - **Frameworks:** FastAPI, Flask, Node.js  
-  - **Deployment:** Docker, GitHub Actions, AWS (EC2, S3), GCP, Nginx, Kubernetes (intro)  
+  - **Deployment:** Docker, GitHub Actions, AWS (EC2, S3), GCP, Azure, Nginx, Kubernetes (intro)  
 </details>
 
 <details>
