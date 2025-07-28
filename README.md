@@ -20,7 +20,7 @@
 ## 🛠️ What I Do
 
 - 🧠 **ML/NLP Systems** – Multilingual understanding, Named Entity Recognition (NER), Summarization, Knowledge Graph Generation  
-- 🛠️ **Backend Development** – Production-grade systems using **FastAPI**, **Flask**, **Docker**, and **PostgreSQL**  
+- 🛠️ **Backend Development** – Production-grade systems including **FastAPI**, **Flask**, **Docker**, and **PostgreSQL**  
 - 📊 **Data Engineering** – Real-time ETL pipelines using **Airflow**, **Pandas**, **SQL**, and **ClickHouse**  
 - 🎙️ **Speech & LLMs** – Leveraging **ASR** and **transformers** for real-time **speech-to-text**, **translation**, and **legal document automation**
 
