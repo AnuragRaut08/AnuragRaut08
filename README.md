@@ -75,7 +75,7 @@
 <details>
   <summary>🧰 Developer Tools</summary>
   
-  - **Version Control & IDEs:** Git, GitHub, GitLab, VS Code  
+  - **Version Control & IDEs:** Git, GitHub, GitLab, VS Code 
   - **Others:** Postman, Jupyter Notebooks, Google Colab, Notion, Linux Shell  
 </details>
 
