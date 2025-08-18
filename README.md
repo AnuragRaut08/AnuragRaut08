@@ -117,7 +117,8 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anurag%20Raut-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anurag-raut-338b8b2b8)  
-[![Email](https://img.shields.io/badge/Gmail-anuragtraut2003@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:anuragtraut2003@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-anuragtraut2003%40gmail.com-green?style=for-the-badge&logo=gmail)](mailto:anuragtraut2003@gmail.com)
+
 
 </div>
 
