@@ -114,14 +114,11 @@
 
 ## 📫 Reach Out
 
-<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anurag%20Raut-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anurag-raut-338b8b2b8)  
-[![Email](https://img.shields.io/static/v1?label=gmail&message=anuragtraut2003@gmail.com&color=green&style=for-the-badge&logo=gmail)](mailto:anuragtraut2003@gmail.com)
 
 
 <div style="font-family:Arial, sans-serif; padding:10px;">
-  <h2>📬 Reach Out</h2>
+  
   <div style="margin-bottom:10px;">
     <a href="https://www.linkedin.com/in/anurag-raut-338b8b2b8" target="_blank" style="text-decoration:none;">
       <span style="background-color:#0077B5; color:white; padding:8px 12px; border-radius:4px;">LinkedIn: Anurag Raut</span>
