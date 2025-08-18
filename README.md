@@ -120,6 +120,20 @@
 [![Email](https://img.shields.io/static/v1?label=gmail&message=anuragtraut2003@gmail.com&color=green&style=for-the-badge&logo=gmail)](mailto:anuragtraut2003@gmail.com)
 
 
+<div style="font-family:Arial, sans-serif; padding:10px;">
+  <h2>📬 Reach Out</h2>
+  <div style="margin-bottom:10px;">
+    <a href="https://www.linkedin.com/in/anurag-raut-338b8b2b8" target="_blank" style="text-decoration:none;">
+      <span style="background-color:#0077B5; color:white; padding:8px 12px; border-radius:4px;">LinkedIn: Anurag Raut</span>
+    </a>
+  </div>
+  <div>
+    <a href="mailto:anuragtraut2003@gmail.com" style="text-decoration:none;">
+      <span style="background-color:#4CAF50; color:white; padding:8px 12px; border-radius:4px;">Gmail: anuragtraut2003@gmail.com</span>
+    </a>
+  </div>
+</div>
+
 
 
 </div>
