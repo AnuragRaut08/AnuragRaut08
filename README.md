@@ -99,7 +99,7 @@
   Building smart Q/A systems and task-specific copilots using LangChain, FAISS, and custom prompts
 
 - 🧩 **Graph Databases & Knowledge Graphs**  
-  Neo4j, OrientDB, entity linking, and relationship extraction for graph-based reasoning
+  Neo4j, OrientDB, entity linking, and relationship extraction for graph-based reasoning 
 
 - 🎙️ **Speech & Audio Intelligence**  
   ASR, voice-based interfaces, audio pre-processing, and multilingual speech conversion
