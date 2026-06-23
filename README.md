@@ -48,7 +48,7 @@
   
   - **Frameworks:** PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers  
   - **Techniques:** LLMs, NER, RAG, CNNs, RNNs, ASR, Cross-lingual Summarization  
-  - **Toolkits:** spaCy, OpenCV, NLTK, Librosa  
+  - **Toolkits:** spaCy, OpenCV, NLTK
 </details>
 
 <details>
