@@ -32,7 +32,7 @@
 <details>
   <summary>📊 Data Engineering</summary>
   
-  - **Pipelines:** Apache Airflow, Pandas, SQL, Kafka (intro), ETL/ELT Architecture  
+  - **Pipelines:** Apache Airflow, Pandas, SQL, Kafka, ETL/ELT Architecture  
   - **Databases:** PostgreSQL, AmazonS3, Redshift, BigQuery, DuckDB, MongoDB, MySQL, ClickHouse, Neo4j, OrientDB  
 </details>
 
