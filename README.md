@@ -46,7 +46,7 @@
 <details>
   <summary>🌐 Frontend Development</summary>
   
-  - **Tech:** React.js, Next.js, Flutter, HTML/CSS, TailwindCSS  
+  - **Tech:** React.js, Next.js, Flutter, HTML/CSS, TailwindCSS, Rust  
   - **UI/UX Tools:** Figma, Canva  
 </details>
 
