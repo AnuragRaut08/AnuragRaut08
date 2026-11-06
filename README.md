@@ -16,7 +16,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,java,cpp,js,ts,react,nextjs,flutter,nodejs,html,css,tailwind,figma,tensorflow,pytorch,sklearn,opencv,docker,kubernetes,aws,gcp,postgres,mongodb,mysql,fastapi,flask,redis,git,github,linux,vscode,selenium&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,go,java,cpp,js,ts,react,nextjs,flutter,nodejs,html,css,tailwind,tensorflow,pytorch,sklearn,opencv,docker,kubernetes,aws,gcp,postgres,mongodb,mysql,fastapi,flask,redis,git,github,linux,vscode,selenium&theme=light" />
 </div>
 
 ---
