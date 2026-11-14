@@ -7,6 +7,11 @@
        alt="Anurag Raut Banner"/>
 </div>
 
+</div>
+
+<br/>
+
+---
 
 
 <div align="center">
@@ -16,7 +21,7 @@
 ---
 ## Recent Contributions
 
-I enjoy digging into real-world bugs, understanding unfamiliar codebases, and contributing fixes to the open-source infrastructure and data systems I use.
+Apparently, reading thousands of lines of unfamiliar code is a hobby now. Might as well fix a few bugs along the way.
 
 ### `apache/datafusion`
 - [#25334](https://github.com/apache/datafusion/pull/25334): Fix dotted column relation qualifiers in protobuf serialization
@@ -35,8 +40,8 @@ I enjoy digging into real-world bugs, understanding unfamiliar codebases, and co
 - [#70564](https://github.com/ceph/ceph/pull/70564): Show Submit button during initial telemetry configuration
 
 ### `apache/arrow`
-- [#51357](https://github.com/apache/arrow/pull/51357): Fix Parquet null counts for fixed-width leaves
-- [#51093](https://github.com/apache/arrow/pull/51093): Fix `MapArray` validation with unknown null counts
+- [#51357](https://github.com/apache/arrow/pull/51357): GH-51097: Fix Parquet null counts for fixed-width leaves
+- [#51093](https://github.com/apache/arrow/pull/51093): GH-51029: [C++] Fix `MapArray` validation with unknown null counts
 
 ### `apache/datafusion-ballista`
 - [#2390](https://github.com/apache/datafusion-ballista/pull/2390): Resolve `datafusion.proto` from `datafusion-proto-models`
