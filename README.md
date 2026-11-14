@@ -24,10 +24,10 @@
 Apparently, reading thousands of lines of unfamiliar code is a hobby now. Might as well fix a few bugs along the way.
 
 ### `apache/datafusion`
-- [#25334](https://github.com/apache/datafusion/pull/25334): Fix dotted column relation qualifiers in protobuf serialization
-- [#25297](https://github.com/apache/datafusion/pull/25297): Avoid re-normalizing logical plans during protobuf serialization
-- [#22452](https://github.com/apache/datafusion/pull/22452): Add serialization support for `DynamicFilterPhysicalExpr`
-- [#22451](https://github.com/apache/datafusion/pull/22451): Add serialization support for `HashTableLookupExpr`
+- [#25297](https://github.com/apache/datafusion/pull/25297): perf(proto): avoid re-normalizing logical plans during protobuf serialization
+- [#25334](https://github.com/apache/datafusion/pull/25334): fix: preserve dotted column relation qualifiers in protobuf serialization
+- [#22452](https://github.com/apache/datafusion/pull/22452): refactor: add try_to_proto / try_from_proto to `DynamicFilterPhysicalExpr`
+- [#22451](https://github.com/apache/datafusion/pull/22451): refactor: add try_to_proto to `HashTableLookupExpr`
 
 ### `ceph/ceph`
 - [#72889](https://github.com/ceph/ceph/pull/72889): Add BlueStore fragmentation alert to Prometheus dashboard
@@ -44,10 +44,10 @@ Apparently, reading thousands of lines of unfamiliar code is a hobby now. Might 
 - [#51093](https://github.com/apache/arrow/pull/51093): GH-51029: [C++] Fix `MapArray` validation with unknown null counts
 
 ### `apache/datafusion-ballista`
-- [#2390](https://github.com/apache/datafusion-ballista/pull/2390): Resolve `datafusion.proto` from `datafusion-proto-models`
+- [#2390](https://github.com/apache/datafusion-ballista/pull/2390): fix(ci): Resolve `datafusion.proto` from `datafusion-proto-models` 
 
 ### `floci-io/floci-gcp`
-- [#193](https://github.com/floci-io/floci-gcp/pull/193): Fix message delivery to push subscriptions
+- [#193](https://github.com/floci-io/floci-gcp/pull/193): fix(pubsub): deliver messages to push subscriptions
 ---
 
 
