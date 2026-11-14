@@ -8,14 +8,13 @@
 </div>
 
 
-## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,go,java,cpp,js,ts,react,nextjs,flutter,nodejs,html,css,tailwind,tensorflow,pytorch,sklearn,opencv,docker,kubernetes,aws,gcp,postgres,mongodb,mysql,fastapi,flask,redis,git,github,linux,vscode,selenium&theme=light" />
 </div>
 
 ---
-## Open Source Contributions
+## Recent Contributions
 
 I enjoy digging into real-world bugs, understanding unfamiliar codebases, and contributing fixes to the open-source infrastructure and data systems I use.
 
