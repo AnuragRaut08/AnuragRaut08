@@ -28,6 +28,7 @@ Apparently, reading thousands of lines of unfamiliar code is a hobby now. Might 
 - [#25334](https://github.com/apache/datafusion/pull/25334): fix: preserve dotted column relation qualifiers in protobuf serialization
 - [#22452](https://github.com/apache/datafusion/pull/22452): refactor: add try_to_proto / try_from_proto to `DynamicFilterPhysicalExpr`
 - [#22451](https://github.com/apache/datafusion/pull/22451): refactor: add try_to_proto to `HashTableLookupExpr`
+- [#22425](https://github.com/apache/datafusion/pull/27425): fix: update tpchgen-cli commands for v4
 
 ### [ceph/ceph](https://github.com/ceph/ceph)
 - [#72889](https://github.com/ceph/ceph/pull/72889): Add BlueStore fragmentation alert to Prometheus dashboard
