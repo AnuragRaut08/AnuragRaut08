@@ -30,6 +30,10 @@ Apparently, reading thousands of lines of unfamiliar code is a hobby now. Might 
 - [#22451](https://github.com/apache/datafusion/pull/22451): refactor: add try_to_proto to `HashTableLookupExpr`
 - [#22425](https://github.com/apache/datafusion/pull/27425): fix: update tpchgen-cli commands for v4
 
+### [apache/arrow](https://github.com/apache/arrow)
+- [#51357](https://github.com/apache/arrow/pull/51357): GH-51097: Fix Parquet null counts for fixed-width leaves
+- [#51093](https://github.com/apache/arrow/pull/51093): GH-51029: [C++] Fix `MapArray` validation with unknown null counts
+
 ### [ceph/ceph](https://github.com/ceph/ceph)
 - [#72889](https://github.com/ceph/ceph/pull/72889): Add BlueStore fragmentation alert to Prometheus dashboard
 - [#72008](https://github.com/ceph/ceph/pull/72008): Add telemetry notification regression tests
@@ -39,10 +43,6 @@ Apparently, reading thousands of lines of unfamiliar code is a hobby now. Might 
 - [#70814](https://github.com/ceph/ceph/pull/70814): Fix HTTP 500 error when generating telemetry reports
 - [#70776](https://github.com/ceph/ceph/pull/70776): Prevent telemetry from being unintentionally re-enabled
 - [#70564](https://github.com/ceph/ceph/pull/70564): Show Submit button during initial telemetry configuration
-
-### [apache/arrow](https://github.com/apache/arrow)
-- [#51357](https://github.com/apache/arrow/pull/51357): GH-51097: Fix Parquet null counts for fixed-width leaves
-- [#51093](https://github.com/apache/arrow/pull/51093): GH-51029: [C++] Fix `MapArray` validation with unknown null counts
 
 ### [apache/datafusion-ballista](https://github.com/apache/datafusion-ballista)
 - [#2390](https://github.com/apache/datafusion-ballista/pull/2390): fix(ci): Resolve `datafusion.proto` from `datafusion-proto-models` 
